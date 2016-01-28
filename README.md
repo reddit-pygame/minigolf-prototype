@@ -23,15 +23,15 @@ Non-negotiables:
 - All code contributions must be licensed as public domain
 
 
-Github repo:
+Github repo: https://github.com/reddit-pygame/minigolf-prototype
 
-Challenge thread:
+Challenge thread: https://www.reddit.com/r/pygame/comments/4335cs/challenge_minigolf_part_1_prototype/
 
 #How It Works
 
 ###State Machine
 
-This code uses [Mekire's multi-scene template]() in place of the simpler state machine I've been using previously. It's very similar, but better organized.  
+This code uses [Mekire's multi-scene template](https://github.com/Mekire/pygame-mutiscene-template-with-movie) in place of the simpler state machine I've been using previously. It's very similar, but better organized.  
 
 ###States
 

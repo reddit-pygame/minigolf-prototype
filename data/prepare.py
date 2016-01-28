@@ -30,7 +30,7 @@ SFX   = tools.load_all_sfx(os.path.join("resources", "sound"))
 GFX   = tools.load_all_gfx(os.path.join("resources", "graphics"))
 
 pg.mixer.music.load(MUSIC["clay"])
-pg.mixer.music.play(loops=-1)
+pg.mixer.music.play(-1)
 
 #copy the front nine for the back nine
 for x in range(1, 10):
