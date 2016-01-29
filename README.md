@@ -22,8 +22,7 @@ Non-negotiables:
 
 - All code contributions must be licensed as public domain
 
-
-Github repo: https://github.com/reddit-pygame/minigolf-prototype
+- Code should run on both 2.7 and 3.x
 
 Challenge thread: https://www.reddit.com/r/pygame/comments/4335cs/challenge_minigolf_part_1_prototype/
 

@@ -78,7 +78,7 @@ class Control(object):
 
     def toggle_fullscreen(self, key):
         if key == pg.K_f:
-            screen_size = pg.display.get_surface().get_szie()
+            screen_size = pg.display.get_surface().get_size()
             self.fullscreen = not self.fullscreen
             if self.fullscreen:
                 self.screen = pg.display.set_mode(screen_size, pg.FULLSCREEN)
